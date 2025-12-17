@@ -61,7 +61,7 @@ I design and build production-ready AI and data platforms with a strong focus on
 ## Connect
 
 - GitHub: This profile  
-- LinkedIn: [Add your LinkedIn URL here ](https://www.linkedin.com/in/midhundasl/)
+- LinkedIn: [Midhun](https://www.linkedin.com/in/midhundasl/)
    
 
 ---
