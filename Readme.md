@@ -1,6 +1,6 @@
 # Midhun Das L
 
-## Machine Learning Engineer | Data & AI Platform Architect
+## Data Scientist | Generative AI Engineer | LLM Solutions Architect | Machine Learning Engineer | Data & AI Platform Architect
 
 I design, build, and scale production-grade machine learning and AI systems with a strong emphasis on model reliability, data quality, and enterprise deployment readiness. My work spans the full lifecycle of ML solutions—from data ingestion and feature engineering to model serving, monitoring, and continuous improvement.
 
